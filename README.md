@@ -9,7 +9,6 @@ DataLens is a project aimed at visualizing various government datasets to provid
 - [Notebooks](#notebooks)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
